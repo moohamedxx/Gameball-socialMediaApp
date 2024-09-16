@@ -1,0 +1,42 @@
+[
+  {
+    "UserId": 3,
+    "Title": "Frappuccino",
+    "PictureUrl": "images/Products/boot-ang1.png"
+  },
+  {
+    "UserId": 3,
+    "Title": "Latte",
+    "PictureUrl": "images/Products/boot-ang2.png"
+  },
+  {
+    "UserId": 3,
+    "Title": "Mocha",
+    "PictureUrl": "images/Products/boot-core1.png"
+  },
+  {
+    "UserId": 3,
+    "Title": "Macchiato",
+    "PictureUrl": "images/Products/boot-core2.png"
+  },
+  {
+    "UserId": 5,
+    "Title": "Matcha",
+    "PictureUrl": "images/Products/boot-redis1.png"
+  },
+  {
+    "UserId": 6,
+    "Title": "Cake",
+    "PictureUrl": "images/Products/boot-code1.png"
+  },
+  {
+    "UserId": 7,
+    "Title": "Donuts",
+    "PictureUrl": "images/Products/boot-react1.png"
+  },
+  {
+    "UserId": 8,
+    "Title": "Salad",
+    "PictureUrl": "images/Products/boot-react2.png"
+  }
+]
